@@ -1,4 +1,4 @@
-# Welcome to the *Jira StopWatch*
+# Welcome to *Jira StopWatch*
 
 > Not *more* timetracking... just *easier* timetracking.
 
