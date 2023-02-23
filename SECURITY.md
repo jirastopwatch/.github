@@ -10,5 +10,5 @@ All versions are supported unless otherwise stated, e.g. due to a deprication no
 
 Please report a [security advisory] if you find any security issues or vulnerabilities.
 
-[general security policy]: https://github.com/jirastopwatch/.github/security/policy
+[security policy]: https://github.com/jirastopwatch/.github/security/policy
 [security advisory]: https://github.com/jirastopwatch/.github/security/advisories/new
