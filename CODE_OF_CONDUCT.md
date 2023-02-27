@@ -1,3 +1,8 @@
+---
+lang: en
+title-meta: Code of Conduct
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
