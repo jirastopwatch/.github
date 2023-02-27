@@ -52,7 +52,9 @@ Control remaining estimates.
 
 ## Tutorial screencast
 
-[Jira StopWatch tutorial] from [Carsten Gehling] on [Vimeo].
+See this [Jira StopWatch tutorial] from [Carsten Gehling] on [Vimeo].
+
+https://user-images.githubusercontent.com/106889957/221465233-93d833ea-0b6a-4b80-8a0c-b4caa50ec380.mp4
 
 # License
 
