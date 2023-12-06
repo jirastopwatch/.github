@@ -6,10 +6,10 @@
 It is fully integrated with Jira, for automatic fetching issues and submitting worklogs.
 And it is *open source*.
 
-[![autism-speaks-logo]][autism-speaks-site]
+[![donation-logo]][donation-site]
 
 Jira StopWatch is charityware.
-If you like the product, [please consider donating to Autism Speaks][autism-speaks-site].
+If you like the product, [please consider donating to The Autistic Self Advocacy Network][donation-site].
 
 ## Track multiple Jira issues
 
@@ -60,9 +60,9 @@ https://user-images.githubusercontent.com/106889957/221465233-93d833ea-0b6a-4b80
 
 [Apache License Version 2.0] - please read [LICENSE.md]
 
-[![autism-speaks-logo]][autism-speaks-site]
+[![donation-logo]][donation-site]
 
-Jira StopWatch is charityware. If you like the product, [please consider donating to Autism Speaks][autism-speaks-site].
+Jira StopWatch is charityware. If you like the product, [please consider donating to The Autistic Self Advocacy Network][donation-site].
 
 # Get involved!
 
@@ -82,8 +82,9 @@ Please use [Github][jirastopwatch-repo] for this.
 [jirastopwatch-news]: https://github.com/jirastopwatch/jirastopwatch/releases/latest
 [jirastopwatch-logo]: https://github.com/jirastopwatch/jirastopwatch/blob/main/docs/img/logo.png
 
-[autism-speaks-logo]: https://act.autismspeaks.org/images/content/pagebuilder/logo-horizontal.png
-[autism-speaks-site]: https://act.autismspeaks.org/site/Donation2?df_id=1500&mfc_pref=T&1500.donation=form1&s_src=jirastopwatch
+[donation-logo]: https://autisticadvocacy.org/wp-content/uploads/elementor/thumbs/ASAN-logo-sm-pkkav3p0lhtl5pji4glo1k7t2fj415qpycass565cw.png
+[donation-site]: https://autisticadvocacy.org
+[donation-link]: https://autisticadvocacy.org/donate
 
 [Jira StopWatch tutorial]: https://vimeo.com/146107370
 [Carsten Gehling]: https://vimeo.com/user4096975
