@@ -9,7 +9,7 @@ And it is *open source*.
 [![donation-logo]][donation-site]
 
 Jira StopWatch is charityware.
-If you like the product, [please consider donating to The Autistic Self Advocacy Network][donation-site].
+If you like the product, [please consider donating][donation-link] to [The Autistic Self Advocacy Network][donation-site].
 
 ## Track multiple Jira issues
 
@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/106889957/221465233-93d833ea-0b6a-4b80
 
 [![donation-logo]][donation-site]
 
-Jira StopWatch is charityware. If you like the product, [please consider donating to The Autistic Self Advocacy Network][donation-site].
+Jira StopWatch is charityware. If you like the product, [please consider donating][donation-link] to [The Autistic Self Advocacy Network][donation-site].
 
 # Get involved!
 
