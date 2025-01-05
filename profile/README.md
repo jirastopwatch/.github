@@ -72,8 +72,7 @@ Pull requests are more than welcome!
 Bug reports, feature requests etc. are welcome.
 Please use [Github][jirastopwatch-repo] for this.
 
-* © 2023 Y. Meyer-Norwood
-* © 2020 Dan Tulloh
+*Copyright © 2025 Carsten Gehling, Dan Tulloh, Y. Meyer-Norwood, et al.*
 
 <!-- LINKS -->
 
