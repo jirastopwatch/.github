@@ -182,17 +182,6 @@ Version 2.0, January 2004 http://www.apache.org/licenses
 
 ## APPENDIX
 
-### How to apply the Apache License to your work.
-
-    To apply the Apache License to your work, attach the following
-    boilerplate notice, with the fields enclosed by brackets "[]"
-    replaced with your own identifying information. (Don't include
-    the brackets!)  The text should be enclosed in the appropriate
-    comment syntax for the file format. We also recommend that a
-    file or class name and description of purpose be included on the
-    same "printed page" as the copyright notice for easier
-    identification within third-party archives.
-
 Copyright 2025
 [Carsten Gehling](https://github.com/carstengehling),
 [Dan Tulloh](https://github.com/tulleuchen),
