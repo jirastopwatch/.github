@@ -1,8 +1,3 @@
----
-lang: en
-title-meta: Contribution Guidelines
----
-
 # Welcome :wave:
 
 If you'd like to contribute, please open a PR. Be sure to explain what your
