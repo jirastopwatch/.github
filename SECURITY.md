@@ -1,8 +1,3 @@
----
-lang: en
-title-meta: Security Policy
----
-
 # Security Policy
 
 This is Jira Stopwatch's [security policy].
